@@ -1,0 +1,7 @@
+* {margin:0; padding:0; overflow:hidden}
+ul, ol {list-style:none}
+
+body {font-size:100%; font-family: Arial, Helvetica, Sans-serif;}
+
+.cont > a {background:#333; padding:5px; display:inline-block; color:#fff; text-decoration:none; font-size:14px; margin:10px; transition: all 120ms ease-out}
+.cont > a:hover, .cont > a.focus {background:DarkCyan; padding-right:10px}
